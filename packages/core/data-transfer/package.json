@@ -54,9 +54,9 @@
     "semver": "7.5.4",
     "stream-chain": "2.2.5",
     "stream-json": "1.8.0",
-    "tar": "6.2.1",
+    "tar": "7.0.0",
     "tar-stream": "2.2.0",
-    "ws": "8.17.1"
+    "ws": "8.18.0"
   },
   "devDependencies": {
     "@strapi/database": "5.4.0",
